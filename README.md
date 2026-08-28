@@ -1,1 +1,32 @@
 # cse115study
+
+print("4"+"2") vs "4+2"
+
+define expression type operator 
+
+False vs false 
+
+type of value : float string 
+
+operator : + - / % //  ** * 
+
+expression : 38 + ( 3* -1) 
+
+value :35
+
+compound expression 3.14 + 6 has a value of 9.14 
+
+subexpression 3.14 subexpression 6 binary addition operator +
+
+compound expression 43-5 
+
+expression is a part of program that has a value 
+
+a single expression cannot be decomposed to smaller expression 
+
+
+
+
+
+
+
